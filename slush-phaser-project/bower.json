@@ -1,0 +1,12 @@
+{
+  "name": "ms-community-slush-game",
+  "version": "0.0.1",
+  "description": "Demo for a slush generator",
+  "authors": [
+    ""
+  ],
+  "dependencies": {
+    "traceur-runtime": "latest",
+    "phaser": "~2.2.2"
+  }
+}
